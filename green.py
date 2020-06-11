@@ -121,6 +121,5 @@ def detectObject():
 
 triggerUI()
 detectObject()
-#cap.release()
 destroyAllWindows()
 endUI()
